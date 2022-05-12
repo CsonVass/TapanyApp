@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TápanyApp</string>
+    <string name="new_food">Új elem</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="name">Név</string>
+    <string name="amount">Mennyiség grammban</string>
+    <string name="calorie">Kalória</string>
+    <string name="protein">Fehérje</string>
+    <string name="carbs">Szénhidrát</string>
+    <string name="fat">Zsír</string>
+    <string name="tvCalorie">Kal: %1$.1f</string>
+    <string name="tvProtein">Feh: %1$.1f g</string>
+    <string name="tvCarbs">Szénh: %1$.1f g</string>
+    <string name="tvFat">Zsír: %1$.1f g</string>
+    <string name="tvName">Név: %1$s</string>
+    <string name="tvAmount">Menny: %1$.1f g</string>
+    <string name="logOut">Kijelentkezés</string>
+    <string name="menuDiary">Napló</string>
+    <string name="Summary">Összesítés</string>
+
+    <string name="tvSumCal">Kalória: %1$.1f</string>
+    <string name="tvSumProt">Fehérje: %1$.1f g</string>
+    <string name="tvSumCarbs">Szénhidrát: %1$.1f g</string>
+    <string name="tvSumFat">Zsír: %1$.1f g</string>
+    <string name="date">YYYY-MM-DD</string>
+    <string name="calculator">Számláló</string>
+    <string name="menu_previous">Előző</string>
+    <string name="menu_next">Következő</string>
+    <string name="loginText">Bejelentkezés</string>
+    <string name="userName">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="btn_login">Bejelentkezés</string>
+    <string name="registrationText">Nincs még fiókod?</string>
+    <string name="btn_registration">Regisztráció</string>
+    <string name="login_text">Bejelentkezés</string>
+    <string name="calLimit">Kalória limit</string>
+    <string name="invalid_registration">Hiányzó adatok!</string>
+    <string name="error_username">Hiányzó felhasználónév!</string>
+    <string name="error_password">Hiáynzó jelszó!</string>
+    <string name="username_taken">Foglalt felhasználónév!</string>
+    <string name="registration_success">Sikeres regisztáció!</string>
+    <string name="loggedInUser">belepett_felhasznalo</string>
+    <string name="shp">sharedPreferance</string>
+    <string name="invalid_credentials">Helytelen adatok!</string>
+    <string name="calorieNotif">Napi kalória követő</string>
+    <string name="notif">Értesítés</string>
+    <string name="channel_name">csatorna</string>
+    <string name="channel_description">csatorna leírás</string>
+    <string name="error_network">Hálózati hiba</string>
+    <string name="error">\"Hiba: \"</string>
+    <string name="item_not_found">Elem nem található</string>
+    <string name="food_not_found">Elem nem található</string>
+
+</resources>
